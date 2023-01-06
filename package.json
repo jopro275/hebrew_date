@@ -1,0 +1,15 @@
+{
+  "name": "hebrew_date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hebcal": "^2.3.2"
+  }
+}
